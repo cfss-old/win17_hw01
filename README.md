@@ -1,5 +1,9 @@
 # hw01
 Repository for first CFSS homework assignment
+Homework one | Archer Pan
+_ _ _ _ _ _ _|_ _ _ _ _ _
+Due Jan 11th |
+
 ## **Archer Pan's Brief Biography**
 ###**Education**
 I'm currently a MAPSS student concentrating on *Behavioral Science*.I'm researching false memeory and foreign language effect under supervision of Dr.Boaz Keysar.
