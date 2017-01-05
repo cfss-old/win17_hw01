@@ -21,10 +21,11 @@ Hi I'm **Michelle Wang**! I'm a current *MAPSS* student with a *Psychology* conc
 ## Research Interest
 * Human Behavioral Science
 * Social Psychology
+* Behavioral Marketing
 
 ### Website
 Please check out my personal website on [LinkedIn!](https://www.linkedin.com/in/michelle-ronghan-wang-45ab2677)
 
 #### Pictures
 Here's a picture of me in the Grand Canyon National Park
-![photo](http://ww1.sinaimg.cn/mw690/81dda96dgw1fbfrbs7jnsj21kw16oqk1.jpg)
+!(http://ww1.sinaimg.cn/mw690/81dda96dgw1fbfrbs7jnsj21kw16oqk1.jpg)
