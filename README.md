@@ -1,11 +1,13 @@
 # hw 01
-Name: "Xiangyu Tao"
-Date: "January 5, 2017"
+Name: Xiangyu Tao
+  
+Date: January 5, 2017
 
 # Xiangyu Tao
 
 ## About Me
-I am a current MAPSS student at *the University of Chicago*. 
+I'm a current MAPSS student at *the University of Chicago*. 
+  
 I received my undergraduate degree in **Psychology** at *the University of Washington, Seattle*. 
 
 ## Current Research Interest
