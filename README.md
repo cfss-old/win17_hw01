@@ -1,10 +1,10 @@
 # hw01
 Repository for first CFSS homework assignment/
+
+Archer Pan | File: Week 1 HW
+Due Date: Jan 11th | MACS
 ---
-Name: "Archer Pan"
-File: "Week 1 HW"
-Due Date: "Jan 11th"
----
+
 ## **Archer Pan's Brief Biography**
 ###**Education**
 I'm currently a MAPSS student concentrating on *Behavioral Science*.I'm researching false memeory and foreign language effect under supervision of Dr.Boaz Keysar.
