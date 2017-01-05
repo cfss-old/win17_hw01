@@ -1,9 +1,8 @@
-# hw01
-
 # Xiangyu Tao
 
 ## About Me
-I am a current MAPSS student at *the University of Chicago*. I recieved my undergraduate degree in **Psychology** from *the University of Washington, Seattle*. 
+I am a current MAPSS student at *the University of Chicago*. 
+I recieved my undergraduate degree in **Psychology** from *the University of Washington, Seattle*. 
 
 ## Current Research Interest
 * Risky behaviors
