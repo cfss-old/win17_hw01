@@ -3,7 +3,6 @@ Repository for first CFSS homework assignment/
 
 Archer Pan | File: Week 1 HW
 Due Date: Jan 11th | MACS
----
 
 ## **Archer Pan's Brief Biography**
 ###**Education**
