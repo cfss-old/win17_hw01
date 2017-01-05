@@ -1,9 +1,10 @@
 # hw01
-Repository for first CFSS homework assignment
-Homework one | Archer Pan
-_ _ _ _ _ _ _|_ _ _ _ _ _
-Due Jan 11th |
-
+Repository for first CFSS homework assignment/
+___
+Name: "Archer Pan"
+File: "Week 1 HW"
+Due Date: "Jan 11th"
+___
 ## **Archer Pan's Brief Biography**
 ###**Education**
 I'm currently a MAPSS student concentrating on *Behavioral Science*.I'm researching false memeory and foreign language effect under supervision of Dr.Boaz Keysar.
@@ -12,7 +13,6 @@ Before coming to Uchicago, I received my B.A from University of Illinois at Urba
 ####**Pet**
 I'm a dog lover, I have a five-month-old mininature goldendoodle.
 Here is a pircture of him:
-![Image of Noodle]
 http://ww4.sinaimg.cn/mw690/7f6853e5gw1fbfm4ziuj0j20qo0zkn2z.jpg
 #####**Hobbys**
 1. Marathon
