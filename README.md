@@ -1,2 +1,2 @@
-# hw01
+# Robert Schwarzhaupt
 Repository for first CFSS homework assignment
