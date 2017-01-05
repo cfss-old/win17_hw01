@@ -19,4 +19,4 @@ I recieved my undergraduate degree in **Psychology** from *the University of Was
   * Traveling
   
 * My photo
-![My photo] (http://ww3.sinaimg.cn/mw690/006F01Wkgw1fbfjl1s1kij318w0u07gx.jpg)
+* ![My photo] (http://ww3.sinaimg.cn/mw690/006F01Wkgw1fbfjl1s1kij318w0u07gx.jpg)
