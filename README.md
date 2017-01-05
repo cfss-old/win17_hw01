@@ -11,6 +11,6 @@ Here is a pircture of him:
 ![Image of Noodle]
 http://ww4.sinaimg.cn/mw690/7f6853e5gw1fbfm4ziuj0j20qo0zkn2z.jpg
 #####**Hobbys**
-1.Marathon
-2.Snowboarding
-3.Travel
+1. Marathon
+2. Snowboarding
+3. Travel
