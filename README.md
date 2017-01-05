@@ -7,7 +7,7 @@ Due Date:Jan 11th
 ## **Archer Pan's Brief Biography**
 ###**Education**
 I'm currently a MAPSS student concentrating on *Behavioral Science*.I'm researching false memeory and foreign language effect under supervision of Dr.Boaz Keysar.  
-Here is the link to the lab (https://mdl.uchicago.edu/directory/boaz-keysar)
+Here is the link to the lab (https://mdl.uchicago.edu/directory/boaz-keysar)  
 Before coming to Uchicago, I received my B.A from University of Illinois at Urbana-Champaign.
 ####**Pet**
 I'm a dog lover, I have a five-month-old mininature goldendoodle.  
