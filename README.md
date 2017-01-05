@@ -1,7 +1,7 @@
 # hw01
-Repository for first CFSS homework assignment
-Author: Michelle (Ronghan) Wang
-Date: Jan 4, 2017
+Repository for first CFSS homework assignment      
+Author: Michelle (Ronghan) Wang     
+Date: Jan 4, 2017   
 
 # Biography
 ### Michelle (Ronghan) Wang | MAPSS
