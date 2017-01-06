@@ -3,7 +3,7 @@ Repository for first CFSS homework assignment
 
 # My brief biography <h2>
 
-![photo](https://www.facebook.com/photo.php?fbid=1090761484285041&set=pb.100000536000622.-2207520000.1483675102.&type=3&theater)
+![photo](C:\Users\HP\My Pictures\IMG_0905)
 
 *Dear all,*
 
