@@ -3,8 +3,6 @@ Repository for first CFSS homework assignment
 
 # My brief biography <h2>
 
-![photo](C:\Users\HP\My Pictures\IMG_0905)
-
 *Dear all,*
 
 My name is **Srishti Goel** and I am a *psychology* graduate student at the *University of Chicago*. I am from **India** and I did my undergrad from the *University of Delhi, India*.
