@@ -25,7 +25,7 @@ and I love lightening up life with
 * **travel & cross-cultural madness**
 
 ![](http://i3.kym-cdn.com/photos/images/newsfeed/000/421/536/919.png)   
-*In French:  "You look like family."  In Georgian (yes, it's a real language!):  "I think I've seen you somewhere about."*   
+*In French:  "You look kind of familiar."  In Georgian (yes, it's a real language!):  "I think I've seen you somewhere about."*   
    
    ****
    
