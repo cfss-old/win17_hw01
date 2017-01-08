@@ -1,21 +1,27 @@
-#Welcome to Yu Quan's Repository
+#Computing for Social Sciences, Homework 01
+
 My name is **Poh Yu Quan**. My *last name* is **Poh** and my first name is **Yu Quan**. I am a **MAPSS student** at the University of Chicago. I come from **Singapore** but I obtained my BSc at **Imperial College London** in *Biomedical Sciences*. I am concentrating in sociology and focusing on criminology.
 
-My interests includes:
+My research interests include:
+
+1. Criminology
+2. Urban Sociology
+
+My hobbies include:
 
 1. Rock Climbing
   * Bouldering
   * Sport Climbing
 2. Snowboarding
-3. Travelling
-4. Criminology
+3. Hiking
+4. Travelling
 5. Programming
   * Python
   * R
   * SQL
-6. Urban Sociology
 
-Here is a handsome picture of me for your viewing pleasure. Please **don't photoshop** it.
+Here is a handsome picture of me for your viewing pleasure. Please **don't photoshop** it. :smiley:
+
 ![My Handsome Face](http://i1174.photobucket.com/albums/r603/Poh_Yu_Quan/14717174_10153835225981746_9155896163653390504_n_zpsgckh02iw.jpg)
 
 Also you can visit my GitHub [here](https://github.com/pohyuquan).
