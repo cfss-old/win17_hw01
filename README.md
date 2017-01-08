@@ -29,6 +29,7 @@ Also you can visit my GitHub [here](https://github.com/pohyuquan).
 4. I committed my changes and added a message "modified README" to indicate my changes.
 5. I pulled from GitHub using the "Git" tab in RStudio to update my local repository.
 6. I pushed my changes to GitHub through RStudio in the same "Git" tab as before.
+7. I made a pull request to merge the branch with the master.
 
 ##Reflections
 The process of cloning a repository and making local changes before committing it and pushing it was fairly straight forward as I referenced the steps indicated through the CFSS "General Homework Guidelines" page (found [here](http://cfss.uchicago.edu/hw00_homework_guidelines.html#homework_workflow)). Although I had previously used a different command interface (*cygwin*), it took some getting used to in order to learn how to perform the similar commands on RStudio. 
