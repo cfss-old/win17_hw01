@@ -1,5 +1,5 @@
 #Welcome to Yu Quan's Repository
-My name is **Poh Yu Quan**. Mind you my *last name* is **Poh** and my first name is **Yu Quan**. I am a **MAPSS student** at the University of Chicago. I come from **Singapore** but I did my undergraduate studies at **Imperial College London** in *Biomedical Sciences*. 
+My name is **Poh Yu Quan**. My *last name* is **Poh** and my first name is **Yu Quan**. I am a **MAPSS student** at the University of Chicago. I come from **Singapore** but I obtained my BSc at **Imperial College London** in *Biomedical Sciences*. I am concentrating in sociology and focusing on criminology.
 
 My interests includes:
 
