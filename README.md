@@ -12,7 +12,7 @@ output: html_document
 My name is Irene Farah.
 I was born in 1990 in *México D.F.*  
 This is me with my nephew (For more pictures go to [Irene's Facebook](https://www.facebook.com/irene.farah)):   
-![May 2016](IMG_3707.JPG)  
+![May 2016](IMG_3707.jpg)  
 
 
 ## Education
