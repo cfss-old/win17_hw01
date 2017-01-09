@@ -1,11 +1,5 @@
 # hw01
 Repository for first CFSS homework assignment
----
-title: "Homework 1"  
-author: "Irene Farah"  
-date: "1/8/2017"  
-output: html_document  
----
 
 #**My Life**  
 ##General Information
