@@ -19,6 +19,6 @@ These are the steps I took to make this file:
 
 2. Then, I created a new project in RStudio > Version Control > Git, and used the URL of the forked hw01 github repository as the repository URL.
 
-3. Then I wrote a brief biography of myself as instructed, and began describing how I did everything (*where I am now*).
+3. Then I wrote a brief biography of myself as instructed, and began describing how I did everything.
 
 4. After this, I will commit my changes, push back to github, and then submit a pull request on the original hw01 repo.
