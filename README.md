@@ -1,12 +1,14 @@
 # hw01
-## About myself
+## About me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Name**: Yinyuan (Sean) Zheng
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Degree**: MAPSS with a focus in Pschology 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Major**: MAPSS with a focus in Pschology 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Interests**: My current research is about analogical reasoning in children.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Interests**: My current research is about analogical reasoning in children (so _cognitive developmental psychology_ in general).
 
-![avatar](/myavatar.jpeg) :+1: :thinking:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm thinking using this image as my avatar. :thinking:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![avatar](/myavatar.jpeg)
+You can find [this image](https://raw.githubusercontent.com/zhengyinyuan/hw01/master/myavatar.jpeg) here!
 
 ## How to modify README.md 
 This document contains:
