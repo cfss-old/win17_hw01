@@ -12,17 +12,17 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can find [this image](https://raw.githubusercontent.com/zhengyinyuan/hw01/master/myavatar.jpeg) here!
 
-## How to modify README.md 
+## Report for README.md 
 This document contains:
 - [x] Headers 
 - [x] _**Emphases**_
 - [x] List
 - [x] Image
-- [x] Link
+- [x] Links
 - [ ] A smart way to do indention (see __Reflections__)
 
-Following the [online markdown guide](https://guides.github.com/features/mastering-markdown/),
+       Following the [online markdown guide](https://guides.github.com/features/mastering-markdown/), I use markdown syntax to incorporate the elements listed in [the hw guide](http://cfss.uchicago.edu/hw01_edit-README.html). Markdown is easy to use where simple texts are typed as in a Word document. Complex functions such as including code and output would be done through R Markdown. 
 
 ## Reflections
 
-hard to get indent but by /&nbsp;/ or block quote />. would love to know how
+Online guides and instructions are extremely helpful for step-by-step learning. To have sentences on separate paragraphs, it is not enough to only hit __ENTER__ once but twice, leaving an empty line inbetween two sentences. Also, I found it is hard to make indention in markdown. The current approach I took is to type &+n+b+s+p+; together, which effectively represents sp or block quote />. would love to know how
