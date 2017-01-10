@@ -32,8 +32,3 @@ http://chicago.academia.edu/NoraNickels
 >
 -Kanye West
 
-
-### Report of Process
-
-
-To make this file, I first forked the repo for homework 1. Then, I opened an RStudio project using the link from this forked repo (cloning the forked repo from my homework repo and opening it in RStudio / Git Client in R). 
