@@ -12,3 +12,5 @@ I'm **Xiaoran Cheng** from China. You can call me **David**.
    * Reading
 
 You guys can follow me on [Facebook](https://www.facebook.com/profile.php?id=100005247065834)
+
+![This is me~](/Users/cxr/Downloads/IMG_3181.JPG)
