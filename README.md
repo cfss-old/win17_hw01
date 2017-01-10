@@ -2,9 +2,9 @@
 ## About me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Name**: Yinyuan (Sean) Zheng
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Major**: MAPSS with a focus in Pschology 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Major**: _MAPSS_ with focus in _Pschology_ 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Interests**: My current research is about analogical reasoning in children (so _cognitive developmental psychology_ in general).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Interests**: My current research is about analogical reasoning in children. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm thinking using this image as my avatar. :thinking:
 
