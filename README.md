@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Interests**: My current research is about analogical reasoning in children.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Motive for taking the class**: I want to have a formal training on R and also learn skills like visualization and webdesign.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Motive for taking the class**: I want to be formally trained on R and learn skills like visualization and webdesign.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Trivia**: I'm thinking using this image as my Github avatar. :thinking:
 
