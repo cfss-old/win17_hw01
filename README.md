@@ -27,8 +27,8 @@ This document contains:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online guides and instructions are extremely helpful for step-by-step learning. To have sentences on separate paragraphs, it is not enough to only hit __ENTER__ once but twice, leaving an empty line inbetween two sentences. 
 
-    Also, I found it is hard to do good indention in markdown. The current approach I took is to combine &+n+b+s+p+;, which translates into space. Simply tabbing the first sentence of a paragraph won't do the trick because it changes nothing (I used tab before this paragraph). 
-      
-    Simply typing spaces would look like this.
+Also, I found it is hard to do good indention in markdown. The current approach I took is to combine &+n+b+s+p+;, which translates into space. 
+    
+    Tabbing or simply typing spaces before the first sentence of a paragraph would look like this. 
     
 I would love to know more about efficient indention.
