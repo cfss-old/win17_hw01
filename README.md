@@ -6,7 +6,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Interests**: My current research is about analogical reasoning in children.
 
-![avatar](/Image1.jpeg)
+![avatar](/Image1.jpeg) :+1: :thinking:
 
 ## How to modify README.md 
 This document contains:
