@@ -1,2 +1,5 @@
 # hw01
-Repository for first CFSS homework assignment
+## About Myself
+123
+## How to modify README.md 
+## Reflections
