@@ -21,10 +21,10 @@ This document contains:
 - [x] Links
 - [ ] A smart way to do indention (see __Reflections__)
 
-Following the [online markdown guide](https://guides.github.com/features/mastering-markdown/), I use markdown syntax to incorporate the elements listed in [the hw guide](http://cfss.uchicago.edu/hw01_edit-README.html). Markdown is easy to use where simple texts are typed as in a Word document. Complex functions such as including code and output would be done through R Markdown. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Following the [online markdown guide](https://guides.github.com/features/mastering-markdown/), I use markdown syntax to incorporate the elements listed in [the hw guide](http://cfss.uchicago.edu/hw01_edit-README.html). Markdown is easy to use where simple texts are typed as in a Word document. Complex functions such as including code and output would be done through R Markdown. 
 
 ## Reflections
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Online guides and instructions are extremely helpful for step-by-step learning. To have sentences on separate paragraphs, it is not enough to only hit __ENTER__ once but twice, leaving an empty line inbetween two sentences. 
 
-  Also, I found it is hard to do good indention in markdown. The current approach I took is to combine &+n+b+s+p+;, which translates into space. Simply tabbing the first sentence of a paragraph won't do the trick because it idents the whole paragraph but not the fisrt line only (like this paragraph).  I would love to know more about efficient indention.
+      Also, I found it is hard to do good indention in markdown. The current approach I took is to combine &+n+b+s+p+;, which translates into space. Simply tabbing the first sentence of a paragraph won't do the trick because it idents the whole paragraph but not the fisrt line only (like this paragraph).  I would love to know more about efficient indention.
