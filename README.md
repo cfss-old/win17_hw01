@@ -6,11 +6,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Research Interests**: My current research is about analogical reasoning in children (so _cognitive developmental psychology_ in general).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I'm thinking using this image as my avatar. :thinking:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm thinking using this image as my avatar. :thinking:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![avatar](/myavatar.jpeg)
 
-You can find [this image](https://raw.githubusercontent.com/zhengyinyuan/hw01/master/myavatar.jpeg) here!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can find [this image](https://raw.githubusercontent.com/zhengyinyuan/hw01/master/myavatar.jpeg) here!
 
 ## How to modify README.md 
 This document contains:
@@ -20,6 +20,8 @@ This document contains:
 - [x] Image
 - [x] Link
 - [ ] A smart way to do indention (see __Reflections__)
+
+Following the [online markdown guide](https://guides.github.com/features/mastering-markdown/),
 
 ## Reflections
 
