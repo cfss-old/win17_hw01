@@ -19,11 +19,17 @@
 
 If random rants and comments are what interest you, find me on [Twitter](https://twitter.com/eshabanerjee).
 
-For a detailed peek into my life, look me up on [Facebook](https://www.facebook.com/esha.yinyang). 
+For a detailed peek into my life, look me up on [Facebook](https://www.facebook.com/esha.yinyang).
+
+#### Editing README.md ####
+<hr />
+After forking and cloning, I edited the file and did the git add, git commit and git push to sync the local and remote repositories.
+
 
 #### Reflections ####
 <hr />
 Forking and cloning the repository was glitch-free.
 The [markdown guide](https://guides.github.com/features/mastering-markdown/) is pretty comprehensive and it was no trouble to introduce the header, use lists, emphasis or hyperlink. 
 <br /> &nbsp;&nbsp;&nbsp;&nbsp; The main part where I ran into trouble was in images. The document incorporates the image size as in the original link. I looked around in [stackoverflow](http://stackoverflow.com/questions/14675913/how-to-change-image-size-markdown) and [github](https://github.com/jeromyanglim/rmarkdown-rmeetup-2012/issues/4)for some time before I chanced upon the [answer](http://stackoverflow.com/questions/24383700/resize-image-in-the-wiki-of-github-using-markdown).
-<br /> &nbsp;&nbsp;&nbsp;&nbsp; Another stylistic issue that troubled me was indentation.Here as well, I found the answer on [stackoverflow](http://stackoverflow.com/questions/6046263/how-to-indent-a-few-lines-in-markdown-markup).   
+<br /> &nbsp;&nbsp;&nbsp;&nbsp; Another stylistic issue that troubled me was indentation.Here as well, I found the answer on [stackoverflow](http://stackoverflow.com/questions/6046263/how-to-indent-a-few-lines-in-markdown-markup).
+While I have used Github before, I used Git Client for the first time. It was irritating to enter the username and password each time, so that needs to be configured next. 
