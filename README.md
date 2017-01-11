@@ -2,7 +2,7 @@
 # Nora C. Nickels  
 
 ### ![](https://0.academia-photos.com/30174041/13103076/14424279/s200_nora.nickels.png) 
-Hi, my name is Nora and I am a Ph.D. student taking this class to learn more about programming and statistics. For my master's project two years ago, I studied how stress affects decision making, by bringing subjects into the lab, stressing them out (very rude, I know), measuring their hormone levels, and looking at their performance on decision making tasks. I had to self-teach myself in EPrime in order to create computer decision making tasks for my participants to take. I really enjoyed learning to code and program in EPrime, but even EPrime has the "click and drag" meantality similar to that of SPSS. I hope to use this class to learn more about the programming behind the tasks I'm creating and the statistical analyses that I'm using. 
+Hi, my name is Nora and I am a Ph.D. student taking this class to learn more about programming and statistics. For my master's project two years ago, I studied how stress affects decision making, by bringing subjects into the lab, stressing them out (very rude, I know), measuring their hormone levels, and looking at their performance on decision making tasks. I was taught by fellow graduate students to use EPrime in order to create computer decision making tasks for my participants to take. I really enjoyed learning to code and program in EPrime, but I was using EPrime in the "click and drag" meantality similar to that of SPSS. I hope to use this class to learn more about the programming behind the tasks I'm creating and the statistical analyses that I'm using. 
 
 ### Affiliations
 
