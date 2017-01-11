@@ -9,4 +9,4 @@
   + Lived in the United Kingdom for the past three years 
   + First year in the United States of America
 * Economist by training, but interested to pick up data analytics  
-* To find out more about the coding I do, click [here](www.github.com/limchengyee).
+* To find out more about the coding I do, click [here](www.github.com/limchengyee)
